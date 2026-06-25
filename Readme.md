@@ -37,23 +37,8 @@ A proposta foi reaproveitar a estrutura de uma landing page/portfólio e transfo
 Como o projeto utiliza apenas tecnologias nativas da web (HTML e CSS), não é necessária nenhuma instalação complexa.
 
 1. Faça o clone deste repositório em sua máquina local:
-   `git clone [COLE A URL DO SEU REPOSITÓRIO AQUI]`
+   `git clone '(https://github.com/roliveirapereira/Site-Copa-Desafio_Alpha_EdTech/)`
 2. Navegue até a pasta do projeto.
 3. Dê um duplo clique no arquivo `index.html` para abri-lo diretamente no seu navegador web de preferência.
 
 ---
-
-## 📺 Apresentação em Vídeo
-
-Confira a apresentação do projeto e a explicação sobre as decisões de design e código no link abaixo:
-
-**Assista no YouTube:** [Insira o link do seu vídeo aqui]
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por **[Seu Nome/Sobrenome]** para o Mini Desafio T8 da Alpha EdTech.
-
-* [Seu LinkedIn](Link do seu LinkedIn)
-* [Seu GitHub](Link do seu GitHub)
